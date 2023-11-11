@@ -16,7 +16,7 @@ const portfolios = [
     description:
       "A personal portfolio to describe more about myself and my projects.",
     technologies: ["React","html" ,"Tailwind css"],
-    siteUrl: "https://github.com/JessicaFernandes3010/Personal-Website",
+    siteUrl: "https://valiverfernandes.vercel.app/",
     doc:"#",
   },
   
