@@ -22,7 +22,7 @@ This portfolio was created using React.js and styled with Tailwind CSS. It's a s
 
 ## Deployment
 
-The portfolio is deployed using Vercel. You can find the live version here: [https://jessicafernandes.vercel.app/](https://jessicafernandes.vercel.app/)
+The portfolio is deployed using Vercel. You can find the live version here: [https://valiverfernandes.vercel.app/](https://valiverfernandes.vercel.app/)
 
 
 Thank you for visiting my portfolio!
